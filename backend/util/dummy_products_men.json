@@ -1,0 +1,192 @@
+[
+  {
+    "name": "All Eyez On Me Men Oversized Printed T-Shirt",
+    "description": "This is description",
+    "images": [
+      "https://pronk.in/cdn/shop/files/392_98f5b8e6-9f68-4844-b458-94674effff91.jpg?v=1717654417&width=1800"
+    ],
+    "price": 649.00,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "fits": [],
+    "tags": [],
+    "stock": 50,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Cream Floral", "Navy Floral"],
+    "brand": "Pronk",
+    "category": ["Oversized T-shirt"]
+  },
+  {
+    "name": "Off-White Stripes Slim Fit Luxe Shirt",
+    "description": "This is description",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MLX1033-02_1_12482517-1427-43cc-aa2b-8a898dc8a0f7.jpg?v=1746527037&quality=20"
+    ],
+    "price": 1399.00,
+    "currency": "INR",
+    "sizes": ["XS", "S", "M", "L"],
+    "fits": [],
+    "tags": [],
+    "stock": 60,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Black"],
+    "brand": "Snitch",
+    "category": ["Shirt"]
+  },
+  {
+    "name": "Denim: Slate Blue (Slim Fit)",
+    "description": "Classic denim trousers with a slim fit, perfect for casual and smart-casual occasions. Features a comfortable stretch fabric and modern styling.",
+    "images": [
+      "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1734676533_3206103.jpg?format=webp&w=480&dpr=1.0"
+    ],
+    "price": 1899.00,
+    "currency": "INR",
+    "sizes": ["S", "M", "L"],
+    "fits": [],
+    "tags": ["Trousers", "Denim", "Slim Fit", "Casual", "Smart Casual"],
+    "stock": 52,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Slate Blue", "Dark Blue"],
+    "brand": "The Souled Store",
+    "category": ["Trousers"]
+  },
+  {
+    "name": "Unisex Baggy Fit Orange Parachute Cargo Trousers",
+    "description": "Comfortable and stylish cargo trousers with a baggy fit, perfect for casual and outdoor wear. Features multiple pockets and a relaxed silhouette.",
+    "images": [
+      "https://houseofkoala.com/cdn/shop/files/1L9A6204_11zon.jpg?v=1734239139&width=690"
+    ],
+    "price": 699.00,
+    "currency": "INR",
+    "sizes": ["XS", "S", "M"],
+    "fits": [],
+    "tags": ["Trousers", "Cargo", "Baggy", "Casual", "Outdoor"],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Orange", "Navy Blue", "Charcoal Grey"],
+    "brand": "House of Koala",
+    "category": ["Trousers"]
+  },
+  {
+    "name": "Classic Chino Trousers - Navy Blue",
+    "description": "Versatile chino trousers perfect for both casual and formal occasions. Features a comfortable fit and classic styling that goes with everything.",
+    "images": [
+      "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 899.00,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "fits": [],
+    "tags": ["Trousers", "Chino", "Classic", "Casual", "Formal"],
+    "stock": 45,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Navy Blue", "Beige", "Olive"],
+    "brand": "Classic Wear",
+    "category": ["Trousers"]
+  },
+  {
+    "name": "Slim Fit Formal Trousers - Black",
+    "description": "Professional formal trousers with a modern slim fit. Perfect for office wear and formal events. Features a comfortable stretch fabric.",
+    "images": [
+      "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 1299.00,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "fits": [],
+    "tags": ["Trousers", "Formal", "Slim Fit", "Office", "Professional"],
+    "stock": 28,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Black", "Charcoal", "Navy"],
+    "brand": "Professional Style",
+    "category": ["Trousers"]
+  },
+  {
+    "name": "Men's The Rugged Aviator Sunglasses - Champayne Gold",
+    "description": "A sophisticated ribbed bodycon midi dress designed to accentuate your figure. Features a high neck and long sleeves, suitable for evening events or professional settings.",
+    "images": [
+      "https://getfrenchaccent.com/cdn/shop/files/FASG1052_2_1780bca4-8c4b-43f1-add0-af83d4529ab8_1800x1800.jpg?v=1724745572"
+    ],
+    "price": 989.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "French Accent",
+    "category": ["sunglasses"]
+  },
+  {
+    "name": "The Bijou Round Watch - Metallic Silver",
+    "description": "This is description",
+    "images": [
+      "https://getfrenchaccent.com/cdn/shop/files/FAWC1027_1_d1777a9d-3a4b-4fab-b47a-288e5dcdfa90_650x.jpg?v=1739966137"
+    ],
+    "price": 999.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "French Accent",
+    "category": ["watches"]
+  },
+  {
+    "name": "Honored Style Layered Chain",
+    "description": "This is description",
+    "images": [
+      "https://salty.co.in/cdn/shop/files/Honored-Style-Layered-Chain-Salty-Alpha-164193762.jpg?v=1751148021&width=1800"
+    ],
+    "price": 1049.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Salty",
+    "category": ["necklace"]
+  },
+  {
+    "name": "Sacred OM Gold Band",
+    "description": "This is description",
+    "images": [
+      "https://salty.co.in/cdn/shop/files/SacredOMGoldBand_bf847bf4-be1e-4331-8ef6-d750dadbc132.jpg?v=1753455521&width=720"
+    ],
+    "price": 749.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "male",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Salty",
+    "category": ["bracelets"]
+  }
+]

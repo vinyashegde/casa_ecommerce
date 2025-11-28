@@ -1,0 +1,1752 @@
+[
+  {
+    "email": "user0@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-0",
+    "display_name": "User 0",
+    "avatar_url": "https://placeimg.com/640/480/people?random=0",
+    "age": 25,
+    "gender": "female",
+    "interests": [
+      "casual",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "loose",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "f555751f4ef84239bf7393a2",
+      "0d55309fb3c049cda836ee36"
+    ],
+    "wishlist_product_ids": [
+      "93e8d80491ce47dfb0da787f",
+      "d326eeb45b7140ae9fe2509b"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user1@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-1",
+    "display_name": "User 1",
+    "avatar_url": "https://placeimg.com/640/480/people?random=1",
+    "age": 32,
+    "gender": "other",
+    "interests": [
+      "techwear",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "b42d776dbd2b4a97bafc9b1a",
+      "c81380cd2e0f47df8b5998e3"
+    ],
+    "wishlist_product_ids": [
+      "0adbc97574924536bf9eb2a3",
+      "c5fd2474c1df416984fee853"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user2@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-2",
+    "display_name": "User 2",
+    "avatar_url": "https://placeimg.com/640/480/people?random=2",
+    "age": 26,
+    "gender": "male",
+    "interests": [
+      "minimal",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "0b2a03271de34cb782059f1c",
+      "4f0ff6ff8ba8415697001fd9"
+    ],
+    "wishlist_product_ids": [
+      "659021ddf1634951887c57f2",
+      "826ff8044bf542eebde246df"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user3@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-3",
+    "display_name": "User 3",
+    "avatar_url": "https://placeimg.com/640/480/people?random=3",
+    "age": 30,
+    "gender": "other",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "cb52d2f11fe4491eb9705c09",
+      "e35d444620274531a06deb93"
+    ],
+    "wishlist_product_ids": [
+      "6ab3020979f949d19d3798cb",
+      "bccf8ad8d424463e9d805cad"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user4@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-4",
+    "display_name": "User 4",
+    "avatar_url": "https://placeimg.com/640/480/people?random=4",
+    "age": 19,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "5ab468d6cb0544c09fa43331",
+      "3aae6826954c49f8bbc13da9"
+    ],
+    "wishlist_product_ids": [
+      "8d0e84293b15496abe21644d",
+      "59abb7d6aa444d199fe3a8bd"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user5@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-5",
+    "display_name": "User 5",
+    "avatar_url": "https://placeimg.com/640/480/people?random=5",
+    "age": 22,
+    "gender": "other",
+    "interests": [
+      "sporty",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "52b992d104d24dd5aabf664d",
+      "aacf4c6fa1444367a15b936f"
+    ],
+    "wishlist_product_ids": [
+      "e33969330b6c40de9e59f2c9",
+      "aab57d5a58794bd0a5a878d5"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user6@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-6",
+    "display_name": "User 6",
+    "avatar_url": "https://placeimg.com/640/480/people?random=6",
+    "age": 23,
+    "gender": "female",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "43e6f0c64fc541a5ae71610c",
+      "6195e860d2dc46728cc501c2"
+    ],
+    "wishlist_product_ids": [
+      "aac51f1daf5548ffb67bc6ef",
+      "3358d8ffae1d407cae432ec1"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user7@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-7",
+    "display_name": "User 7",
+    "avatar_url": "https://placeimg.com/640/480/people?random=7",
+    "age": 32,
+    "gender": "other",
+    "interests": [
+      "techwear",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "39564c8db4f44401b9b85990",
+      "e3793f47ce8a4acfa9aaa4aa"
+    ],
+    "wishlist_product_ids": [
+      "c7f8376fdef44ca6b5b9501c",
+      "462f1476d6c84c61ac4823c0"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user8@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-8",
+    "display_name": "User 8",
+    "avatar_url": "https://placeimg.com/640/480/people?random=8",
+    "age": 33,
+    "gender": "male",
+    "interests": [
+      "casual",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "d56d02eba03b48f494d5b429",
+      "ec0a278ffe7d464897c2caf7"
+    ],
+    "wishlist_product_ids": [
+      "7eff8a70911149ad80a610cb",
+      "3730e24969174f98b4861b27"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user9@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-9",
+    "display_name": "User 9",
+    "avatar_url": "https://placeimg.com/640/480/people?random=9",
+    "age": 32,
+    "gender": "female",
+    "interests": [
+      "minimal",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "6cfee20a8e4743e5b7400fce",
+      "05da09e8baf44b409090581f"
+    ],
+    "wishlist_product_ids": [
+      "ba025036310348c89488a59f",
+      "108eecd38d5249409cf9a5cf"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user10@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-10",
+    "display_name": "User 10",
+    "avatar_url": "https://placeimg.com/640/480/people?random=10",
+    "age": 28,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "eca35ae29eee4c07a78d1800",
+      "ed8f7cce2f6442eea8494587"
+    ],
+    "wishlist_product_ids": [
+      "c0d0cf8c1d104935852d037a",
+      "b7a0cb10e6c34e9394be8227"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user11@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-11",
+    "display_name": "User 11",
+    "avatar_url": "https://placeimg.com/640/480/people?random=11",
+    "age": 35,
+    "gender": "other",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "644855e682b64b83b2b42787",
+      "1b3e87c4b1954245a7717eed"
+    ],
+    "wishlist_product_ids": [
+      "bbc78cb6989445eebc74380c",
+      "afd05eac37f145a4a2a30342"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user12@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-12",
+    "display_name": "User 12",
+    "avatar_url": "https://placeimg.com/640/480/people?random=12",
+    "age": 32,
+    "gender": "female",
+    "interests": [
+      "techwear",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "982b5dd6760d48cc90556dbf",
+      "ab4b012f1b3541c1be9fd2f6"
+    ],
+    "wishlist_product_ids": [
+      "6c06dc4761354f9da3a29b8b",
+      "027379baa2674d688196f53a"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user13@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-13",
+    "display_name": "User 13",
+    "avatar_url": "https://placeimg.com/640/480/people?random=13",
+    "age": 35,
+    "gender": "other",
+    "interests": [
+      "minimal",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "4893b4af97be42c89265c886",
+      "7614b49c787f47ceb9be73aa"
+    ],
+    "wishlist_product_ids": [
+      "9e1849db813e4f3a9b55ab97",
+      "88b7b45b7b194372b2eef26a"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user14@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-14",
+    "display_name": "User 14",
+    "avatar_url": "https://placeimg.com/640/480/people?random=14",
+    "age": 21,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "5c7d0f9d23234f73a0d199de",
+      "99e01550aef04c9897eb82bc"
+    ],
+    "wishlist_product_ids": [
+      "c16fa514c57c4068b2262b2e",
+      "ad1fcf3560634618a00bd1a1"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user15@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-15",
+    "display_name": "User 15",
+    "avatar_url": "https://placeimg.com/640/480/people?random=15",
+    "age": 21,
+    "gender": "female",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "9dfccf4599924caebc80f097",
+      "86f7749b901f46dcae820bab"
+    ],
+    "wishlist_product_ids": [
+      "43d3017170da4b2fbbfbdec3",
+      "9a22b00ffa854cf69a0cc52d"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user16@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-16",
+    "display_name": "User 16",
+    "avatar_url": "https://placeimg.com/640/480/people?random=16",
+    "age": 28,
+    "gender": "female",
+    "interests": [
+      "sporty",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "f076450c662b4ad88510e129",
+      "4ee190d7133a4126ae008651"
+    ],
+    "wishlist_product_ids": [
+      "680aec28908849ca8e7e17a7",
+      "c5766ed9c554488e903b841d"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user17@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-17",
+    "display_name": "User 17",
+    "avatar_url": "https://placeimg.com/640/480/people?random=17",
+    "age": 27,
+    "gender": "other",
+    "interests": [
+      "minimal",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "loose",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "e8022ee6b80047bf9b105fde",
+      "4774ae0d1669463985866cb8"
+    ],
+    "wishlist_product_ids": [
+      "e48de9190c904a428c0ef75d",
+      "750bf0f8e412423287dbb288"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user18@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-18",
+    "display_name": "User 18",
+    "avatar_url": "https://placeimg.com/640/480/people?random=18",
+    "age": 31,
+    "gender": "female",
+    "interests": [
+      "casual",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "b9b3b5ea753f43569c66bc16",
+      "20b67e36e8f84755945db3ff"
+    ],
+    "wishlist_product_ids": [
+      "ebf15858aa774900a37189f5",
+      "1154b5761b974eab9b0f1d11"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user19@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-19",
+    "display_name": "User 19",
+    "avatar_url": "https://placeimg.com/640/480/people?random=19",
+    "age": 25,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "89cba45a7330404ca5e5e2b8",
+      "0f0d8e5f9dee4b52b1bf765d"
+    ],
+    "wishlist_product_ids": [
+      "e3f3049ad384418abfe6b4cb",
+      "c199abb140da444c9a527f0a"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user20@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-20",
+    "display_name": "User 20",
+    "avatar_url": "https://placeimg.com/640/480/people?random=20",
+    "age": 31,
+    "gender": "other",
+    "interests": [
+      "minimal",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "01c9464813964af7a65d80b0",
+      "266c0553d36f46eb82334210"
+    ],
+    "wishlist_product_ids": [
+      "986021b5da614faf8a5fdd87",
+      "c6adf9d8b7ba4eda8b74ae66"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user21@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-21",
+    "display_name": "User 21",
+    "avatar_url": "https://placeimg.com/640/480/people?random=21",
+    "age": 29,
+    "gender": "female",
+    "interests": [
+      "techwear",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "bccc400a22064d5b97f45ac2",
+      "d4ecf2e3e70e49ddb54dd7d8"
+    ],
+    "wishlist_product_ids": [
+      "62c0cb4df5cc47488dfe8261",
+      "a3e63acf631441c8a830bffc"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user22@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-22",
+    "display_name": "User 22",
+    "avatar_url": "https://placeimg.com/640/480/people?random=22",
+    "age": 29,
+    "gender": "female",
+    "interests": [
+      "casual",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "d80bae3c5ec54a2cb26fc502",
+      "8b011a9d1aa5458e9ab31197"
+    ],
+    "wishlist_product_ids": [
+      "683a40dbd30549d6a1bfe78c",
+      "efa1cb86fe7a4118a8310cb4"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user23@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-23",
+    "display_name": "User 23",
+    "avatar_url": "https://placeimg.com/640/480/people?random=23",
+    "age": 21,
+    "gender": "male",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "loose",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "6a4f13ff923a458eb70af555",
+      "c6d296f75f154397b631192a"
+    ],
+    "wishlist_product_ids": [
+      "4829f6b95d4648fb8ec6536b",
+      "74e7eb4cc3e644dca1522fc8"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user24@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-24",
+    "display_name": "User 24",
+    "avatar_url": "https://placeimg.com/640/480/people?random=24",
+    "age": 25,
+    "gender": "female",
+    "interests": [
+      "minimal",
+      "casual"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "a91718ca5f6b444e9027a612",
+      "61f1371a839a4b909a4e6c49"
+    ],
+    "wishlist_product_ids": [
+      "f38f375b239647a3b9cd962a",
+      "c52ffe7995cd495bad2bc4b4"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user25@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-25",
+    "display_name": "User 25",
+    "avatar_url": "https://placeimg.com/640/480/people?random=25",
+    "age": 31,
+    "gender": "other",
+    "interests": [
+      "sporty",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "2421fb52d29c4462b5ac8a2e",
+      "e1d162aea84949f19fb4cb4d"
+    ],
+    "wishlist_product_ids": [
+      "9a27ee8792164cd19f396d61",
+      "ac812c1b247f40dba3eb9d1c"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user26@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-26",
+    "display_name": "User 26",
+    "avatar_url": "https://placeimg.com/640/480/people?random=26",
+    "age": 30,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "b790e0a8e3474ce99bc001aa",
+      "c0f452789f2241dbb1280603"
+    ],
+    "wishlist_product_ids": [
+      "bd1b8412b5124012ac3fc2c1",
+      "7a2bdff04d1140caa868e177"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user27@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-27",
+    "display_name": "User 27",
+    "avatar_url": "https://placeimg.com/640/480/people?random=27",
+    "age": 20,
+    "gender": "male",
+    "interests": [
+      "techwear",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "be713b142bfe455fb1de10b8",
+      "83612dd30fe44aaaa79f6d5b"
+    ],
+    "wishlist_product_ids": [
+      "553a0867a6c04b23b820afb5",
+      "46bcb61af55c471086c74d67"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user28@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-28",
+    "display_name": "User 28",
+    "avatar_url": "https://placeimg.com/640/480/people?random=28",
+    "age": 25,
+    "gender": "female",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "748d3100763c4348848b6926",
+      "45d76e9140ce4910a34248e8"
+    ],
+    "wishlist_product_ids": [
+      "574e5c9042bb4c338632895d",
+      "7c7c260a66114e5a864fe924"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user29@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-29",
+    "display_name": "User 29",
+    "avatar_url": "https://placeimg.com/640/480/people?random=29",
+    "age": 25,
+    "gender": "male",
+    "interests": [
+      "sporty",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "5e8e0f8992fb481ba955a73f",
+      "977e348f0e614714aa78af9a"
+    ],
+    "wishlist_product_ids": [
+      "8c8ed57e7bef402cb4c6466a",
+      "2b42c399c08340f4a2ef5c4a"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user30@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-30",
+    "display_name": "User 30",
+    "avatar_url": "https://placeimg.com/640/480/people?random=30",
+    "age": 24,
+    "gender": "other",
+    "interests": [
+      "minimal",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "936c11f0d858467485afd799",
+      "f8cf7cc6b7804911887c41e0"
+    ],
+    "wishlist_product_ids": [
+      "310cbd827a3a45e38244cf4e",
+      "7734b19b5ee94dd29ced63bf"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user31@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-31",
+    "display_name": "User 31",
+    "avatar_url": "https://placeimg.com/640/480/people?random=31",
+    "age": 24,
+    "gender": "female",
+    "interests": [
+      "minimal",
+      "casual"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "7eff824a804342f6bd6ae393",
+      "b588a1dc7d794e21aa2578cb"
+    ],
+    "wishlist_product_ids": [
+      "a5d55722a81b41e488faa0d9",
+      "d39fea9c909d4ec997052195"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user32@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-32",
+    "display_name": "User 32",
+    "avatar_url": "https://placeimg.com/640/480/people?random=32",
+    "age": 30,
+    "gender": "female",
+    "interests": [
+      "techwear",
+      "casual"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "67f7c56dfaec4466ad2a58c9",
+      "905f46fd91be441fb5a5656a"
+    ],
+    "wishlist_product_ids": [
+      "64114e47f2f44930960ef715",
+      "99cc5ca68ccd4ab48b8f6c2b"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user33@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-33",
+    "display_name": "User 33",
+    "avatar_url": "https://placeimg.com/640/480/people?random=33",
+    "age": 28,
+    "gender": "male",
+    "interests": [
+      "minimal",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "4406fc7c7f0d40b586ff4ff7",
+      "74376b53f39f421191c39b55"
+    ],
+    "wishlist_product_ids": [
+      "0ff8cc0279564c0497863cd8",
+      "29be1395ccb1473aa41bd3ec"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user34@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-34",
+    "display_name": "User 34",
+    "avatar_url": "https://placeimg.com/640/480/people?random=34",
+    "age": 20,
+    "gender": "other",
+    "interests": [
+      "techwear",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "93c153b28b184d8c81c5b694",
+      "dcd6cbf655a5466488c12dcf"
+    ],
+    "wishlist_product_ids": [
+      "8142febb1c8a428aab6129dc",
+      "ef5cfc0dd6c449e2b694e2f2"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user35@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-35",
+    "display_name": "User 35",
+    "avatar_url": "https://placeimg.com/640/480/people?random=35",
+    "age": 19,
+    "gender": "other",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "5f4d653271874f099be59ef6",
+      "1386a8ba239e49cf850711e7"
+    ],
+    "wishlist_product_ids": [
+      "2888bc93825c44d4811da358",
+      "62fde596fe4d462abd57e946"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user36@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-36",
+    "display_name": "User 36",
+    "avatar_url": "https://placeimg.com/640/480/people?random=36",
+    "age": 20,
+    "gender": "male",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "66c5fa30c2784377a21a66b1",
+      "33e61b805b41446183f0236a"
+    ],
+    "wishlist_product_ids": [
+      "d8ab39443ed94e069bb280c5",
+      "e3215deef6804ce0a60bc4dd"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user37@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-37",
+    "display_name": "User 37",
+    "avatar_url": "https://placeimg.com/640/480/people?random=37",
+    "age": 33,
+    "gender": "female",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "loose",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "e84a06934523471e98e3b628",
+      "ea208a190a0d4ce3bf8d04df"
+    ],
+    "wishlist_product_ids": [
+      "b0f0392c5d09442bb6bc6be0",
+      "967339232a0546e4ae37a5d7"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user38@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-38",
+    "display_name": "User 38",
+    "avatar_url": "https://placeimg.com/640/480/people?random=38",
+    "age": 32,
+    "gender": "male",
+    "interests": [
+      "minimal",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "6b40c8a2605d4d388bcb6264",
+      "fa277fb9dd364fff99a78218"
+    ],
+    "wishlist_product_ids": [
+      "b458f6c92b5045bc925697b4",
+      "ca7c9649239b4276b7172e78"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user39@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-39",
+    "display_name": "User 39",
+    "avatar_url": "https://placeimg.com/640/480/people?random=39",
+    "age": 26,
+    "gender": "other",
+    "interests": [
+      "techwear",
+      "minimal"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "fitted"
+    ],
+    "followed_brand_ids": [
+      "8a9b337dc7414702a147b40c",
+      "6656948b1f3c4ba9905a6af3"
+    ],
+    "wishlist_product_ids": [
+      "83da04f839d5499894be7c29",
+      "0c4536aeb6f44e1581ac4834"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user40@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-40",
+    "display_name": "User 40",
+    "avatar_url": "https://placeimg.com/640/480/people?random=40",
+    "age": 25,
+    "gender": "female",
+    "interests": [
+      "techwear",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "0e00332472c547f296a957a5",
+      "cd72d7f6f5f8433bae8577c8"
+    ],
+    "wishlist_product_ids": [
+      "fad541cdde5e4d6abd20e9a7",
+      "b1b321aa7d964bcb9c95fa56"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user41@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-41",
+    "display_name": "User 41",
+    "avatar_url": "https://placeimg.com/640/480/people?random=41",
+    "age": 18,
+    "gender": "male",
+    "interests": [
+      "casual",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "90341a9c3e914d15ba69ce68",
+      "b0a217f565f341af8e8404ce"
+    ],
+    "wishlist_product_ids": [
+      "ac17f5b5eec548e68373f36d",
+      "f7755393f3854156a1b275d7"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user42@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-42",
+    "display_name": "User 42",
+    "avatar_url": "https://placeimg.com/640/480/people?random=42",
+    "age": 23,
+    "gender": "male",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "f40790ee08414ec68098700b",
+      "07023d32f0d74ac3831dbd1d"
+    ],
+    "wishlist_product_ids": [
+      "4e0cc1b5a6644cc38c74a602",
+      "44a99af1a0e941b4aece86f3"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user43@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-43",
+    "display_name": "User 43",
+    "avatar_url": "https://placeimg.com/640/480/people?random=43",
+    "age": 24,
+    "gender": "female",
+    "interests": [
+      "minimal",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "3d6b6f008c2949db8b469219",
+      "660db83b1e5e4c2a85e754c0"
+    ],
+    "wishlist_product_ids": [
+      "5f247b77051c443b9f0ec905",
+      "6cb45d25f75b4e958116a44b"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user44@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-44",
+    "display_name": "User 44",
+    "avatar_url": "https://placeimg.com/640/480/people?random=44",
+    "age": 21,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "16426a1f68324f8394527b75",
+      "87605960fd694355b675ad6b"
+    ],
+    "wishlist_product_ids": [
+      "d29436b6813c47e9a4cfcc08",
+      "0855bd9a512242dd805e0a3d"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user45@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-45",
+    "display_name": "User 45",
+    "avatar_url": "https://placeimg.com/640/480/people?random=45",
+    "age": 22,
+    "gender": "other",
+    "interests": [
+      "casual",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "6cd8eed5d2bc4361b4bba761",
+      "d884dbbcaa0d46eeb5b29b24"
+    ],
+    "wishlist_product_ids": [
+      "56029745aeba4fd8be9d9296",
+      "272a0536ce784a4d87e13217"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user46@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-46",
+    "display_name": "User 46",
+    "avatar_url": "https://placeimg.com/640/480/people?random=46",
+    "age": 22,
+    "gender": "male",
+    "interests": [
+      "sporty",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "3c841071f4ec4f7bbf1ba889",
+      "47bbd342fe6a460ead9bda11"
+    ],
+    "wishlist_product_ids": [
+      "736b88dab25744a482f9e983",
+      "7b284d233197414b805acd75"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user47@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-47",
+    "display_name": "User 47",
+    "avatar_url": "https://placeimg.com/640/480/people?random=47",
+    "age": 25,
+    "gender": "female",
+    "interests": [
+      "sporty",
+      "techwear"
+    ],
+    "ml_preferences": [
+      "oversized",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "8cb83449ab0b44f9a3e43f91",
+      "7e3c043fb176449691b32bfa"
+    ],
+    "wishlist_product_ids": [
+      "41a302c1c3ea40c6adcd4d78",
+      "9c4eb4702c4846a3843f9dc9"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user48@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-48",
+    "display_name": "User 48",
+    "avatar_url": "https://placeimg.com/640/480/people?random=48",
+    "age": 19,
+    "gender": "female",
+    "interests": [
+      "techwear",
+      "sporty"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "oversized"
+    ],
+    "followed_brand_ids": [
+      "0725bbd50096427293db8d91",
+      "cb90142b5422419e86f4f91a"
+    ],
+    "wishlist_product_ids": [
+      "be6a3357d4b341d696d38948",
+      "e888f4b9fd4a4de6866ccbbc"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  },
+  {
+    "email": "user49@example.com",
+    "password_hash": "hashed_password_123",
+    "oauth_provider": "google",
+    "oauth_id": "oauthid-49",
+    "display_name": "User 49",
+    "avatar_url": "https://placeimg.com/640/480/people?random=49",
+    "age": 26,
+    "gender": "male",
+    "interests": [
+      "minimal",
+      "casual"
+    ],
+    "ml_preferences": [
+      "fitted",
+      "loose"
+    ],
+    "followed_brand_ids": [
+      "dd4999b5e3aa46e6823a667f",
+      "477813edfce14732a1bcc5f4"
+    ],
+    "wishlist_product_ids": [
+      "86df9cfc251e44dc9000df1f",
+      "92efce91e07d4ac087b4b462"
+    ],
+    "last_login": "2024-07-25T10:00:00Z",
+    "delivery_addresses": [
+      "123 Main St, New York, NY",
+      "456 Secondary Rd, Los Angeles, CA"
+    ],
+    "payment_methods": [
+      "visa_ending_1234",
+      "mastercard_ending_5678"
+    ]
+  }
+]

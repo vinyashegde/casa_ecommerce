@@ -1,0 +1,77 @@
+[
+  {
+    "logo_url": ["https://dummyimage.com/500x500/000/fff.png&text=Brand+1"],
+    "brand": "Bluorng"
+  },
+  {
+    "logo_url": ["https://dummyimage.com/500x500/000/fff.png&text=Brand+2"],
+    "brand": "Essentials"
+  },
+  {
+    "logo_url": ["https://dummyimage.com/500x500/000/fff.png&text=Brand+3"],
+    "brand": "Deadbear"
+  },
+  {
+    "logo_url": ["https://dummyimage.com/500x500/000/fff.png&text=Brand+4"],
+    "brand": "Evemen"
+  },
+  {
+    "logo_url": ["https://dummyimage.com/500x500/000/fff.png&text=Brand+5"],
+    "brand": "Odd Not Even"
+  },
+  {
+    "logo_url": ["https://diamondlady.in/cdn/shop/files/apple-touch-icon.png?v=1652284540&width=140"],
+    "brand": "Diamond Lady"
+  },
+  {
+    "logo_url": ["https://ashtag.in/cdn/shop/files/Logo-01_1.png?v=1613557355&width=300"],
+    "brand": "Ashtag"
+  },
+  {
+    "logo_url": ["https://rangita.com/cdn/shop/files/Rangita_Logo-01_1.webp?height=60&v=1714210117"],
+    "brand": "Rangita"
+  },
+  {
+    "logo_url": ["https://supervintage.in/cdn/shop/files/SUPERVINTAGE_copy.png?v=1747293061&width=360"],
+    "brand": "Supervintage"
+  },
+  {
+    "logo_url": ["https://www.buyhautesauce.com/cdn/shop/files/haute_sauce_logo_310x.jpg?v=1678088848"],
+    "brand": "Haute Sauce"
+  },
+  {
+    "logo_url": ["https://buysohi.com/cdn/shop/files/BLNCE_daily_pos…5-48e3-b391-fbcba9306185_60x@2x.webp?v=1660725750"],
+    "brand": "Sohi"
+  },
+  {
+    "logo_url": ["https://play-lh.googleusercontent.com/gbOku-JAebw8k5_WCHsCedn8OcfCX5SSnMtUlhIULtJaWPbfPJ_nmQxie7RJGCSStlMl=w480-h960-rw"],
+    "brand": "Salty"},
+    
+    {
+    "logo_url": ["https://assets.ajio.com/sellercms/media/AJIO_GRAM/0d8e2aa7-8672-483d-878e-0beacec856dc/Images/LOGO/HOK_11_1717567826006.png"],
+    "brand": "House of Koala"
+  },
+  {
+    "logo_url": ["https://getfrenchaccent.com/cdn/shop/files/FA_LOGO_WHITE_80x_b4f1c60b-c3c8-47bf-a0d6-8715baecf766_80x.png?v=1726803199"],
+    "brand": "French Accent"
+  },
+  {
+    "logo_url": ["https://play-lh.googleusercontent.com/gbOku-JAebw8k5_WCHsCedn8OcfCX5SSnMtUlhIULtJaWPbfPJ_nmQxie7RJGCSStlMl"],
+    "brand": "Salty"
+  },
+  {
+    "logo_url": ["https://www.thesouledstore.com/static/img/300x157-twitter.png"],
+    "brand": "The Souled Store"
+  },
+  {
+    "logo_url": ["https://pronk.in/cdn/shop/files/PRONK_round_black_a8d4f0e0-c7c8-47b6-a540-75385c8021b0.png?v=1735824101&width=70"],
+    "brand": "Pronk"
+  },
+  {
+    "logo_url": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuG6dcGaiQUnMe4Bh-sRbOtGQkWegXA0K4w&s"],
+    "brand": "Snitch"
+  }
+
+
+  
+]

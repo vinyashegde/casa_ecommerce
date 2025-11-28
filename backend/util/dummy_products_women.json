@@ -1,0 +1,162 @@
+[
+  {
+    
+    "name": "Sunset Pic mini dress",
+    "description": "This is description",
+    "images": [
+      "https://diamondlady.in/cdn/shop/files/2E758FCC-92CE-45DD-BD52-B44508553A0A.jpg?v=1747741939"
+    ],
+    "price": 1699.00,
+    "currency": "INR",
+    "sizes": ["S", "M", "L", "XL"],
+    "fits": [],
+    "tags": [],
+    "stock": 50, 
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Cream Floral", "Navy Floral"],
+    "brand": "Diamond Lady", 
+    "category": ["Dresses"]
+  },
+  {
+    "name": "one shoulder shimmer cape",
+    "description": "This is description",
+    "images": [
+      "https://ashtag.in/cdn/shop/files/Ask16_3.jpg?v=1734072481&width=1800"
+    ],
+    "price": 2490.00,
+    "currency": "INR",
+    "sizes": ["XS", "S", "M", "L"],
+    "fits": [],
+    "tags": [],
+    "stock": 60,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Black"],
+    "brand": "Ashtag",
+    "category": ["Tops"]
+  },
+  {
+    
+    "name": "Rangita women green chanderi embroided calf length anarkali kurta",
+    "description": "A relaxed fit midi dress featuring a unique bohemian print and charming tiered ruffles. Perfect for a casual day out or a stylish beach vacation. Comes with a tie-waist detail.",
+    "images": [
+      "https://rangita.com/cdn/shop/files/New_WE-AW24-KUR-PK-147_1_1100c154-89dc-41c2-ad39-3782e66bcedb.webp?v=1736140903&width=1780"
+    ],
+    "price": 1499.00,
+    "currency": "INR",
+    "sizes": ["S", "M", "L"],
+    "fits": [],
+    "tags": [],
+    "stock": 52,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Terracotta Print", "Forest Green Print"],
+    "brand": "Rangita",
+    "category": ["Kurtis"]
+  },
+  {
+    
+    "name": "Body Art Bodysuit",
+    "description": "A sophisticated ribbed bodycon midi dress designed to accentuate your figure. Features a high neck and long sleeves, suitable for evening events or professional settings.",
+    "images": [
+      "https://supervintage.in/cdn/shop/files/O1CN014efHHf1Monw3FtulE__2213011271482-0-cib.jpg?v=1737626268&width=1800"
+    ],
+    "price": 1399.00,
+    "currency": "INR",
+    "sizes": ["XS", "S", "M"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Supervintage",
+    "category": ["Bodysuits"]
+  },
+  {
+    
+    "name": "The Gilded Viper Hand Bag - Khaki Beige",
+    "description": "A sophisticated ribbed bodycon midi dress designed to accentuate your figure. Features a high neck and long sleeves, suitable for evening events or professional settings.",
+    "images": [
+      "https://www.buyhautesauce.com/cdn/shop/files/HSHB2594_2_9738e2c8-1d50-4ca1-9eaf-50bae4e955fb.jpg?v=1745431209&width=800"
+    ],
+    "price": 799.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Haute Sauce",
+    "category": ["Handbags"]
+  },
+  
+  {
+    
+    "name": "Haute Sauce Polarized sunglasses",
+    "description": "A sophisticated ribbed bodycon midi dress designed to accentuate your figure. Features a high neck and long sleeves, suitable for evening events or professional settings.",
+    "images": [
+      "https://buysohi.com/cdn/shop/files/SOHIER9766_1_9884c34a-256d-4975-80de-04c002a7eb46_1800x1800.jpg?v=1721114989"
+    ],
+    "price": 799.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Haute Sauce",
+    "category": ["Sunglasses"]
+  },
+  {
+    
+    "name": "Gold plated stud earrings",
+    "description": "This is description",
+    "images": [
+      "https://www.buyhautesauce.com/cdn/shop/files/HSHB2594_2_9738e2c8-1d50-4ca1-9eaf-50bae4e955fb.jpg?v=1745431209&width=800"
+    ],
+    "price": 2449.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Sohi",
+    "category": ["Earrings"]
+  },
+  {
+    
+    "name": "Golden majesty gold necklace",
+    "description": "This is description",
+    "images": [
+      "https://salty.co.in/cdn/shop/files/NS14038-G_890cb0de-87cd-4291-9dd1-22bbe207976d.jpg?v=1751908063&width=1800"
+    ],
+    "price": 2449.00,
+    "currency": "INR",
+    "sizes": ["FreeSize"],
+    "fits": [],
+    "tags": [],
+    "stock": 33,
+    "is_active": true,
+    "geo_tags": [],
+    "gender": "female",
+    "colors": ["Navy Blue", "Charcoal Grey"],
+    "brand": "Salty",
+    "category": ["Necklace"]
+  }
+]

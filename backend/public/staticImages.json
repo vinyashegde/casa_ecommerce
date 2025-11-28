@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "generatedAt": "2025-09-21T06:38:11.732Z",
+    "totalImages": 1,
+    "version": "1.0.0"
+  },
+  "images": [
+    {
+      "_id": "68cf9d536948c0abb58e510a",
+      "name": "MVP Image",
+      "description": "",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGw02OwbM1W9UK313RgYEgg10vGM-XtKHmw&s",
+      "category": "hero",
+      "device": "all",
+      "position": "banner",
+      "isActive": true,
+      "createdAt": "2025-09-21T06:38:11.653Z",
+      "updatedAt": "2025-09-21T06:38:11.653Z"
+    }
+  ],
+  "imagesByCategory": {
+    "hero": [
+      {
+        "_id": "68cf9d536948c0abb58e510a",
+        "name": "MVP Image",
+        "description": "",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGw02OwbM1W9UK313RgYEgg10vGM-XtKHmw&s",
+        "category": "hero",
+        "device": "all",
+        "position": "banner",
+        "isActive": true,
+        "createdAt": "2025-09-21T06:38:11.653Z",
+        "updatedAt": "2025-09-21T06:38:11.653Z"
+      }
+    ],
+    "trends": [],
+    "products": [],
+    "brands": [],
+    "ui": []
+  },
+  "imagesByDevice": {
+    "desktop": [
+      {
+        "_id": "68cf9d536948c0abb58e510a",
+        "name": "MVP Image",
+        "description": "",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGw02OwbM1W9UK313RgYEgg10vGM-XtKHmw&s",
+        "category": "hero",
+        "device": "all",
+        "position": "banner",
+        "isActive": true,
+        "createdAt": "2025-09-21T06:38:11.653Z",
+        "updatedAt": "2025-09-21T06:38:11.653Z"
+      }
+    ],
+    "mobile": [
+      {
+        "_id": "68cf9d536948c0abb58e510a",
+        "name": "MVP Image",
+        "description": "",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGw02OwbM1W9UK313RgYEgg10vGM-XtKHmw&s",
+        "category": "hero",
+        "device": "all",
+        "position": "banner",
+        "isActive": true,
+        "createdAt": "2025-09-21T06:38:11.653Z",
+        "updatedAt": "2025-09-21T06:38:11.653Z"
+      }
+    ],
+    "tablet": [
+      {
+        "_id": "68cf9d536948c0abb58e510a",
+        "name": "MVP Image",
+        "description": "",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGw02OwbM1W9UK313RgYEgg10vGM-XtKHmw&s",
+        "category": "hero",
+        "device": "all",
+        "position": "banner",
+        "isActive": true,
+        "createdAt": "2025-09-21T06:38:11.653Z",
+        "updatedAt": "2025-09-21T06:38:11.653Z"
+      }
+    ],
+    "all": [
+      {
+        "_id": "68cf9d536948c0abb58e510a",
+        "name": "MVP Image",
+        "description": "",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGw02OwbM1W9UK313RgYEgg10vGM-XtKHmw&s",
+        "category": "hero",
+        "device": "all",
+        "position": "banner",
+        "isActive": true,
+        "createdAt": "2025-09-21T06:38:11.653Z",
+        "updatedAt": "2025-09-21T06:38:11.653Z"
+      }
+    ]
+  },
+  "categories": [
+    "hero",
+    "trends",
+    "products",
+    "brands",
+    "ui"
+  ],
+  "devices": [
+    "desktop",
+    "mobile",
+    "tablet",
+    "all"
+  ]
+}
